@@ -1,0 +1,2 @@
+cnpm install --save-dev babel-jest babel-polyfill babel-preset-es2015 babel-preset-react jest
+cnpm install shortid --save
