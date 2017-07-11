@@ -1,2 +1,4 @@
 cnpm install --save-dev babel-jest babel-polyfill babel-preset-es2015 babel-preset-react jest
 cnpm install shortid --save
+cnpm install react react-dom --save
+npm install --save-dev react-addons-test-utils enzyme
